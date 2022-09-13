@@ -1,0 +1,21 @@
+.products{
+    width:80%;
+    margin: auto;
+}
+.products h1 ,p {
+text-align: center;
+}
+
+.product {
+    box-sizing: border-box;
+    width: 33.33333%;
+    float: left;
+    text-align: center;
+    padding:0 20px;
+}
+.product img{
+    width: 100%; 
+}
+.clr{
+    clear: both;
+}
